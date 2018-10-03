@@ -1,0 +1,10 @@
+C:\Users\catgu\source\repos\game_base\game_base\obj\Release\game_base.Form1.resources
+C:\Users\catgu\source\repos\game_base\game_base\obj\Release\game_base.Properties.Resources.resources
+C:\Users\catgu\source\repos\game_base\game_base\obj\Release\game_base.csproj.GenerateResource.cache
+C:\Users\catgu\source\repos\game_base\game_base\obj\Release\game_base.csproj.CoreCompileInputs.cache
+C:\Users\catgu\source\repos\game_base\game_base\bin\Release\game_base.exe.config
+C:\Users\catgu\source\repos\game_base\game_base\bin\Release\game_base.exe
+C:\Users\catgu\source\repos\game_base\game_base\bin\Release\game_base.pdb
+C:\Users\catgu\source\repos\game_base\game_base\obj\Release\game_base.exe
+C:\Users\catgu\source\repos\game_base\game_base\obj\Release\game_base.pdb
+C:\Users\catgu\source\repos\game_base\game_base\obj\Release\game_base.csprojAssemblyReference.cache
