@@ -1,4 +1,4 @@
-# TopDownShooterCsharp-discontinued
+# TopDownShooterC#-discontinued
 This project is base of top down shooter game with base of level editor made using c# and FMOD audio library
 
 # You can all that you want with this project
