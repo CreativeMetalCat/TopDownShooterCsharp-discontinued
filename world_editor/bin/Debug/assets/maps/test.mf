@@ -1,0 +1,12 @@
+<map>
+<entity>
+<ent name="player_start" x="0" y="0"></ent>
+</entity>
+<world worldsrool="1">
+<actor type="solid" x="100" y="50" width="100" height="100" layer="0" drawassprite="true" hascollision="true" imagefile="assets\\models\\floor_checkboard_texture.png"></actor>
+<actor type="solid" x="500" y="500" width="-1" height="-1" layer="0" drawassprite="true" hascollision="true" imagefile="assets\\models\\floor_checkboard_texture.png"></actor>
+<actor type="trigger" trigger_use_type="once" enter_dir="up" trigger_type="change_layer" target_layer="1" x="500" y="200" width="100" height="100" layer="0" drawassprite="true" hascollision="true" imagefile="assets\\models\\floor_checkboard_texture.png"></actor>
+<actor type="reverb" reverb_preset_name="HALLWAY" min="0" max="1000" z="0" x="0" y="0" width="-1" height="-1" layer="0" drawassprite="true" hascollision="false" imagefile="assets\\models\\gunshot.bmp"/>
+<actor type="func" func_type="view_layer" target_layer="0" t_x="100" t_y="50" t_height="100" t_width="100" x="500" y="200" width="100" height="100" layer="1" drawassprite="true" hascollision="true" imagefile="assets\\models\\floor_checkboard_texture.png"></actor>
+</world>
+</map>

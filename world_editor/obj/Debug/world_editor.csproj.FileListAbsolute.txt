@@ -1,0 +1,14 @@
+C:\Users\catgu\source\repos\game_base\world_editor\bin\Debug\world_editor.exe.config
+C:\Users\catgu\source\repos\game_base\world_editor\bin\Debug\world_editor.exe
+C:\Users\catgu\source\repos\game_base\world_editor\bin\Debug\world_editor.pdb
+C:\Users\catgu\source\repos\game_base\world_editor\obj\Debug\world_editor.csprojAssemblyReference.cache
+C:\Users\catgu\source\repos\game_base\world_editor\obj\Debug\world_editor.Properties.Resources.resources
+C:\Users\catgu\source\repos\game_base\world_editor\obj\Debug\world_editor.csproj.GenerateResource.cache
+C:\Users\catgu\source\repos\game_base\world_editor\obj\Debug\world_editor.csproj.CoreCompileInputs.cache
+C:\Users\catgu\source\repos\game_base\world_editor\obj\Debug\world_editor.exe
+C:\Users\catgu\source\repos\game_base\world_editor\obj\Debug\world_editor.pdb
+C:\Users\catgu\source\repos\game_base\world_editor\bin\Debug\fmod.dll
+C:\Users\catgu\source\repos\game_base\world_editor\bin\Debug\fmodstudio.dll
+C:\Users\catgu\source\repos\game_base\world_editor\obj\Debug\world_editor.Form1.resources
+C:\Users\catgu\source\repos\game_base\world_editor\obj\Debug\world_editor.LoadingForm.resources
+C:\Users\catgu\source\repos\game_base\world_editor\obj\Debug\world_editor.EntityEditor.resources
